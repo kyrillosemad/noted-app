@@ -1,11 +1,31 @@
 import 'package:flutter/material.dart';
-import 'package:todo/app/material.dart';
+import 'package:get/get_navigation/src/root/get_material_app.dart';
+import 'package:sizer/sizer.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:todo/view/view_modules/home_page.dart';
+import 'package:todo/view/view_modules/introduction.dart';
 
-var curInd = 0;
 SharedPreferences? id;
+var curInd = 0;
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   id = await SharedPreferences.getInstance();
-  return runApp(const TODO());
+  runApp(const TODO());
+}
+
+class TODO extends StatelessWidget {
+  const TODO({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Sizer(
+      builder: (context, orientation, deviceType) {
+        String? userId = id?.getString("userid");
+        return GetMaterialApp(
+          debugShowCheckedModeBanner: false,
+          home: userId == null ? const Introduction() : const HomePage(),
+        );
+      },
+    );
+  }
 }
