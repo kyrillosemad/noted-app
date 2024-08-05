@@ -15,3 +15,6 @@ videoplayer](https://github.com/user-attachments/assets/dc5166af-ab97-4672-b24e-
 ![Screenshot_٢٠٢٤-٠٨-٠٥-١١-٤١-٥٦-٣٤٤_com miui videoplayer](https://github.com/user-attachments/assets/74281e96-3523-46a8-87cf-031f9c6a131a)
 ![Screenshot_٢٠٢٤-٠٨-٠٥-١١-٤٢-٠٣-٢٩١_com miui videoplayer](https://github.com/user-attachments/assets/2a5bcdbb-f5db-49df-8d39-bd8c99342115)
 ![Screenshot_٢٠٢٤-٠٨-٠٥-١١-٤٢-٣٥-٤٣٥_com miui videoplayer](https://github.com/user-attachments/assets/b61526ea-1c01-419c-a01b-f6d83115f07e)
+videoplayer](https://github.com/user-attachments/assets/5133631d-b9f8-488a-acd7-c257f37a22b3)
+![Screenshot_٢٠٢٤-٠٨-٠٥-١١-٤٣-١٣-٤٩٥_com miui videoplayer](https://github.com/user-attachments/assets/0e476f31-c7b0-471a-897d-88474dba613f)
+![Screenshot_٢٠٢٤-٠٨-٠٥-١١-٤٢-٣٥-٤٣٥_com miui videoplayer](https://github.com/user-attachments/assets/efe00a8f-ead6-4197-a3fb-3514376626e5
